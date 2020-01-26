@@ -1,5 +1,5 @@
 # minicomp DSR Rossman Challenge  
-## Local Enviromnet  
+
 1) Clone the repo: `git clone https://github.com/educatorsRlearners/minicomp.git`  
 2) Create virtual environment with python==3.6.8
 3) Activate the virtual environment
